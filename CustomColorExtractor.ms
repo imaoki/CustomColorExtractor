@@ -1,4 +1,4 @@
-/*! © 2015 imaoki | MIT License | https://github.com/imaoki */
+/*! © 2019 imaoki | MIT License | https://github.com/imaoki */
 /**
 clrxファイルの`CustomColors`要素の内容を抽出する。
 */
