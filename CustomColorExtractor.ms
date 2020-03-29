@@ -1,4 +1,4 @@
-/*! © 2019 imaoki | MIT License | https://github.com/imaoki */
+/*! © 2020 imaoki | MIT License | https://github.com/imaoki */
 /**
 clrxファイルの`CustomColors`要素の内容を抽出する。
 */
@@ -174,7 +174,7 @@ struct CustomColorExtractor (
   ),
 
   /**
-  `::stringLogicalComparer`が定義されているかどうかを判断する。
+  `::stringLogicalComparer`が定義されているかどうかを判定する。
   @return <BooleanClass>
   */
   private fn isPredefineStringLogicalComparer = (
